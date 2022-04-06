@@ -1,6 +1,6 @@
 # udacity_repo
 This is a repository to gain familiarity with git and Github
-# These are the comands git commands i am familiar with
+### These are the comands git commands i am familiar with
 
 1. git clone
 2. git add
